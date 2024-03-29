@@ -1,3 +1,4 @@
 *.png
 .DS_Store
 *.zip
+data/nutrition5k_dataset_nosides
